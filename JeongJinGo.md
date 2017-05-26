@@ -22,7 +22,7 @@ _안녕하십니까_
 
 **표**
 | Tables    | Are          | Cool |
-| ----------| :-----------:| ----:|
+| ----------|:-----------:| ----:|
 | col 3 is  | right-aligned| $1600|
 | col 3 is  | centered     |  $12|
 
@@ -48,7 +48,7 @@ print s
 [KoreaTech](https://www.naver.com)
 [KoreaTech][Arbitary case-insensitive reference text]
 
-[Arbitary case-insensitive reference text]: (https://www.naver.com)
+[Arbitary case-insensitive reference text]: https://www.naver.com
 
 **인용**
 > 정진호
