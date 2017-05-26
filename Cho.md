@@ -3,12 +3,17 @@ Choyeunghyeun
 Onylr
 
 **Cho YeungHyeun**
+
 #This text *include* [Git hub](https:github.com//Onylr/ComputerBasicCons.git)
+
 >And
 1. t1
 2. t2
+
 **__t3?__**
+
 ~~nerf this~~
+
 [is this work?]: http://www.naver.com
 
 
