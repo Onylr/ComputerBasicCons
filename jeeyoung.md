@@ -1,4 +1,4 @@
-#*#8* 
+#8 
 ##**Lee jeeyoung**
 ###Student
 _class_
