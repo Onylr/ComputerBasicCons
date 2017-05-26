@@ -1,0 +1,5 @@
+Student Number : 2013136122
+Student Name : Cho YeungHyeun
+Age : 24
+Grade : Senior
+Major : Computer Science and Engineering
