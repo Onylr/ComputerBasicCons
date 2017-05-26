@@ -4,7 +4,7 @@
 **Lee jeeyoung**
 Student
 _class_
-..* Basic Designe of Conputer Systems
+..*  Basic Designe of Conputer Systems
 * Philosophy
 - ~~hrd~~
 + math
@@ -27,5 +27,5 @@ refernece
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
->i'm student >koreatech
+>i'm student > koreatech
 
