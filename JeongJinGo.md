@@ -48,7 +48,7 @@ print s
 [KoreaTech](https://www.naver.com)
 [KoreaTech][Arbitary case-insensitive reference text]
 
-[Arbitary case-insensitive reference text](https://www.naver.com)
+[Arbitary case-insensitive reference text]: (https://www.naver.com)
 
 **인용**
 > 정진호
