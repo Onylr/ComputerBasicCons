@@ -4,10 +4,10 @@
 ## **Lee jeeyoung**
 ###Student
 _class_
-..*Basic Designe of Conputer Systems
-*Philosophy
--~~hrd~~
-+math
+..* Basic Designe of Conputer Systems
+* Philosophy
+- ~~hrd~~
++ math
 
 [koreatech link](www.koreatech.ac.kr)
 
