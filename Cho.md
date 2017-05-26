@@ -10,15 +10,10 @@ Onylr
 >And
 1. t1
 2. t2
-
-**__t3?__**
-
-~~nerf this~~
-
-[is this work?]: http://www.naver.com
-
-
-Hi[1]
+..**__t3?__**
+*~~nerf this~~
+-[is this work?]: http://www.naver.com
++Hi[1]
 
 [1]: http://news.naver.com
 
