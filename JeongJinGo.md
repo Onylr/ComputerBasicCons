@@ -21,11 +21,6 @@ _안녕하십니까_
 + Or pluses
 
 **표**
-| Tables    | Are          | Cool |
-| ----------|:-----------:| ----:|
-| col 3 is  | right-aligned| $1600|
-| col 3 is  | centered     |  $12|
-
 Markdown|Less|Pretty
 ---|---|---
 *Still*|'renders'|**nicely**
