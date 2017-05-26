@@ -11,10 +11,9 @@ Onylr
 1. t1
 2. t2
 
-..* **__t3?__**
-
-*~~nerf this~~
-
+-t3
+-__t3?__**
+-~~nerf this~~
 -[is this work?]: http://www.naver.com
 +Hi[1]
 
