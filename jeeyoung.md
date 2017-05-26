@@ -11,7 +11,8 @@ _class_
 
 [koreatech link](www.koreatech.ac.kr)
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+
+[Arbitrary case-insensitive reference text]: https://www.mozilla.org
 
 |mon |tue |wed |
 |----|----|----|
