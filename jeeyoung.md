@@ -1,13 +1,18 @@
-#*#8* 
-##**Lee jeeyoung**
-###Student
+ #8 
+======
+
+**Lee jeeyoung**
+Student
 _class_
-..*Basic Designe of Conputer Systems
-*Philosophy
--~~hrd~~
-+math
+..*  Basic Designe of Conputer Systems
+* Philosophy
+- ~~hrd~~
++ math
 
 [koreatech link](www.koreatech.ac.kr)
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[Arbitrary case-insensitive reference text]: https://www.mozilla.org
 
 |mon |tue |wed |
 |----|----|----|
@@ -21,6 +26,9 @@ print s
 
 here's our logo
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+refernece
+![alt text][logo]
 
->i'm student >koreatech
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+>i'm student > koreatech
 
