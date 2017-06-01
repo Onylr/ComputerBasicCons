@@ -41,7 +41,7 @@
 
 2. 그 이유는 무엇입니까??
 
-![alt](ComputerBasicCons/그림.png)
+![alt](https://github.com/Onylr/ComputerBasicCons/blob/master/%EA%B7%B8%EB%A6%BC.png)
 
 3. 현재 필기하는 도구의 문제점은 무엇입니까??
 
