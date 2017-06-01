@@ -6,7 +6,7 @@
 - ![alt text][NSP]
 - >네오스마트펜 N2는 일반 펜과 같이 가볍고 편하게 필기할 수 있도록 설계되었습니다. 이질감 없이 펜으로서의 역할을 충실히 할 수 있도록 세세한 디테일까지 신경을 썼습니다.
 - ![alt text](https://assets-jpcust.jwpsrv.com/thumbs/uxfEe1qi.jpg)
-- :Link[Link]: https://www.neosmartpen.com/kr/
+- :[Link]: https://www.neosmartpen.com/kr/
 
 2. Echo Smart Pen
 - has record system.
