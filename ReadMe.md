@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-# Existing Cases
+## Existing Cases
 1. Neo Smart Pen
 - has exclusive notebook which contains invisible dots.
 - ![alt text][NSP]
@@ -29,11 +27,12 @@
 [EqSP]: https://www.myequil.com/wp-content/themes/ensconce/images/Equilsp2_website-DESK_1900_7b.jpg
 
 
-=======
+ ===============
+2013136122 
 2016136106 이지영
 
-시스템 개요 
-===============
+# 시스템 개요 
+ ===============
 
 --문제정의--
 
@@ -49,7 +48,3 @@
 * 모션인식 / 글자인식 기능
 - Bluetooth를 이용한 데이터 전송 기능
 + 전용 App의 편집 기능
-
-
-
->>>>>>> fea57c9246549bf426c11ea45c6822dd3e366ea8
