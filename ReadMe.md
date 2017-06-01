@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Existing Cases
 1. Neo Smart Pen
@@ -28,3 +29,27 @@
 [NSP]: http://www.geeky-gadgets.com/wp-content/uploads/2014/09/Smartpen2.jpg
 [EcSP]: https://www.livescribe.com/images/smartpen/echo/overview/banner_responsive.png
 [EqSP]: https://www.myequil.com/wp-content/themes/ensconce/images/Equilsp2_website-DESK_1900_7b.jpg
+=======
+2016136106 이지영
+
+시스템 개요 
+===============
+
+--문제정의--
+
+**노트와 펜을 사용한 필기의 단점을 극복하고 아날로그와 디지털의 장점을 모두 가진 새로운 필기 방법을 찾아야 한다.**
+
+--요구사항--
+* 필기한 내용을 어디서든 바로 볼 수 있어야 한다.
+- 기존에 익숙한 필기방식을 반영해야 한다.
++ 필기한 내용을 어디서는 쉽고 깔끔하게 정리 할 수 있어야 한다.
+
+
+--시스템의 기능--
+* 모션인식 / 글자인식 기능
+- Bluetooth를 이용한 데이터 전송 기능
++ 전용 App의 편집 기능
+
+
+
+>>>>>>> fea57c9246549bf426c11ea45c6822dd3e366ea8
